@@ -1,0 +1,12 @@
+# datos grandes y confidenciales
+data/raw/
+*.nc
+*.tif
+
+# archivos del sistema Mac
+.DS_Store
+__pycache__/
+*.pyc
+
+# entornos
+.env
